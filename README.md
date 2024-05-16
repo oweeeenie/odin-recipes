@@ -1,1 +1,1 @@
-# odin-recipes
+This is the beginning of the recipe website ;)
